@@ -117,7 +117,7 @@ This app is part of a portfolio designed to:
 ## 👨‍💻 Author
 
 **Jordi Capsi**  
-_Mathematician & Aspiring Data Analyst_  
+_Mathematician_  
 🔗 [GitHub Profile](https://github.com/jordicapsi)
 
 ---
