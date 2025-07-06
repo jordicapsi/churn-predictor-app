@@ -71,6 +71,37 @@ When values are entered, the app returns:
 
 ---
 
+## 🐳 Docker Deployment
+This project includes a Docker configuration to allow anyone to run the Streamlit app in a fully reproducible environment — no manual setup required.
+
+### 📦 Build the Docker image
+Open a terminal in the root folder and run:
+
+```bash
+docker build -t churn-app .
+```
+
+This creates a Docker image named churn-app.
+
+### 🚀 Run the container
+Start the app with:
+
+```bash
+docker run -p 8501:8501 churn-app
+```
+
+Then open your browser at:
+http://localhost:8501
+
+### ✅ Why use Docker?
+
+- Same behavior across any machine
+- No need to install Python or packages
+- Mimics production deployment
+- Adds technical depth to a data analyst's portfolio
+
+---
+
 ## 🙋 Why this project?
 
 This app is part of a portfolio designed to:
