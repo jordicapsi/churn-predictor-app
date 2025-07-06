@@ -1,5 +1,7 @@
 # 🧠 Customer Churn Predictor App (Streamlit Deployment)
 
+🔗 **Live App:** [Try it here](https://jordicapsi-churn-app.streamlit.app)
+
 This is a lightweight web app built with **Streamlit** that predicts the probability of a bank customer leaving (churning) based on profile data. The backend uses a **logistic regression model** trained on real-world customer churn data.
 
 
